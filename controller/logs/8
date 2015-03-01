@@ -1,0 +1,30 @@
+2015-02-24 17:18:23.176743 (129)  START_LOG
+2015-02-24 17:18:23.178904 (129)   SPLAYD LUA EXEC
+2015-02-24 17:18:23.183650 (129)  	>> Job settings:
+2015-02-24 17:18:23.183725 (129)  	Ref: 53d6ba882c9dcf4da7f693eba8d66e9c
+2015-02-24 17:18:23.183736 (129)  	Name: 
+2015-02-24 17:18:23.183745 (129)  	Description: 
+2015-02-24 17:18:23.183753 (129)  	Disk:
+2015-02-24 17:18:23.183763 (129)  		max 1024 files
+2015-02-24 17:18:23.183772 (129)  		max 1024 file descriptors
+2015-02-24 17:18:23.183783 (129)  		max 67108864 size in bytes
+2015-02-24 17:18:23.183791 (129)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_10_6/jobs_fs/53d6ba882c9dcf4da7f693eba8d66e9c/lib
+2015-02-24 17:18:23.183800 (129)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_10_6/jobs_fs/53d6ba882c9dcf4da7f693eba8d66e9c/lib/?.so
+2015-02-24 17:18:23.183883 (129)  	Mem 20971520 bytes of memory
+2015-02-24 17:18:23.183892 (129)  	Network:
+2015-02-24 17:18:23.183904 (129)  		max 134217728/134217728 send/receive bytes
+2015-02-24 17:18:23.183936 (129)  		max 1024 tcp sockets
+2015-02-24 17:18:23.183962 (129)  		ip 172.17.0.10
+2015-02-24 17:18:23.183976 (129)  		ports 19789-19798
+2015-02-24 17:18:23.183984 (129)  
+2015-02-24 17:18:23.204321 (129)  	>> Into sandbox !!!
+2015-02-24 17:18:23.204400 (129)  	> Memory: 187.205078125 KBytes
+2015-02-24 17:18:23.204410 (129)  	> Checking sandbox...
+2015-02-24 17:18:23.204426 (129)  	   > passed
+2015-02-24 17:18:23.204435 (129)  
+2015-02-24 17:18:23.215637 (129)  	[school] I'm 172.17.0.10:19789
+2015-02-24 17:18:23.215681 (129)  	[school] My position in the list is: 1
+2015-02-24 17:18:23.215697 (129)  	[school] List type is 'head' with 1 nodes
+2015-02-24 17:18:28.221717 (129)  	[school] I received an RPC from node 1
+2015-02-24 17:18:28.222071 (129)  	[school] Bye bye
+2015-02-24 17:18:31.356965 (129)  END_LOG

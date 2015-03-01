@@ -1,0 +1,65 @@
+2015-02-27 22:48:52.774730 (166)  START_LOG
+2015-02-27 22:48:52.776999 (166)   SPLAYD LUA EXEC
+2015-02-27 22:48:52.781464 (166)  	>> Job settings:
+2015-02-27 22:48:52.781523 (166)  	Ref: 3b93a696aae59f78eb330492b019fb17
+2015-02-27 22:48:52.781534 (166)  	Name: 
+2015-02-27 22:48:52.781543 (166)  	Description: 
+2015-02-27 22:48:52.781551 (166)  	Disk:
+2015-02-27 22:48:52.781561 (166)  		max 1024 files
+2015-02-27 22:48:52.781571 (166)  		max 1024 file descriptors
+2015-02-27 22:48:52.781581 (166)  		max 67108864 size in bytes
+2015-02-27 22:48:52.781589 (166)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_12_9/jobs_fs/3b93a696aae59f78eb330492b019fb17/lib
+2015-02-27 22:48:52.781598 (166)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_12_9/jobs_fs/3b93a696aae59f78eb330492b019fb17/lib/?.so
+2015-02-27 22:48:52.781669 (166)  	Mem 20971520 bytes of memory
+2015-02-27 22:48:52.781691 (166)  	Network:
+2015-02-27 22:48:52.781706 (166)  		max 134217728/134217728 send/receive bytes
+2015-02-27 22:48:52.781716 (166)  		max 1024 tcp sockets
+2015-02-27 22:48:52.781750 (166)  		ip 172.17.0.12
+2015-02-27 22:48:52.781765 (166)  		ports 22251-22260
+2015-02-27 22:48:52.781774 (166)  
+2015-02-27 22:48:52.798704 (166)  	[school] I'm node 2
+2015-02-27 22:48:49.340774 (55)  START_LOG
+2015-02-27 22:48:49.351603 (55)   SPLAYD LUA EXEC
+2015-02-27 22:48:49.356217 (55)  	>> Job settings:
+2015-02-27 22:48:49.356273 (55)  	Ref: 3b93a696aae59f78eb330492b019fb17
+2015-02-27 22:48:49.356283 (55)  	Name: 
+2015-02-27 22:48:49.356291 (55)  	Description: 
+2015-02-27 22:48:49.356298 (55)  	Disk:
+2015-02-27 22:48:49.356306 (55)  		max 1024 files
+2015-02-27 22:48:49.356314 (55)  		max 1024 file descriptors
+2015-02-27 22:48:49.356323 (55)  		max 67108864 size in bytes
+2015-02-27 22:48:49.356330 (55)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_16_1/jobs_fs/3b93a696aae59f78eb330492b019fb17/lib
+2015-02-27 22:48:49.356337 (55)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_16_1/jobs_fs/3b93a696aae59f78eb330492b019fb17/lib/?.so
+2015-02-27 22:48:49.356346 (55)  	Mem 20971520 bytes of memory
+2015-02-27 22:48:49.356353 (55)  	Network:
+2015-02-27 22:48:49.356363 (55)  		max 134217728/134217728 send/receive bytes
+2015-02-27 22:48:49.356371 (55)  		max 1024 tcp sockets
+2015-02-27 22:48:49.356378 (55)  		ip 172.17.0.16
+2015-02-27 22:48:49.356389 (55)  		ports 14485-14494
+2015-02-27 22:48:49.356396 (55)  
+2015-02-27 22:48:49.372835 (55)  	[school] I'm node 1
+2015-02-27 22:48:47.954954 (74)  START_LOG
+2015-02-27 22:48:47.958238 (74)   SPLAYD LUA EXEC
+2015-02-27 22:48:47.963255 (74)  	>> Job settings:
+2015-02-27 22:48:47.963336 (74)  	Ref: 3b93a696aae59f78eb330492b019fb17
+2015-02-27 22:48:47.963347 (74)  	Name: 
+2015-02-27 22:48:47.963356 (74)  	Description: 
+2015-02-27 22:48:47.963364 (74)  	Disk:
+2015-02-27 22:48:47.963374 (74)  		max 1024 files
+2015-02-27 22:48:47.963384 (74)  		max 1024 file descriptors
+2015-02-27 22:48:47.963394 (74)  		max 67108864 size in bytes
+2015-02-27 22:48:47.963402 (74)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_7_8/jobs_fs/3b93a696aae59f78eb330492b019fb17/lib
+2015-02-27 22:48:47.963412 (74)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_7_8/jobs_fs/3b93a696aae59f78eb330492b019fb17/lib/?.so
+2015-02-27 22:48:47.963487 (74)  	Mem 20971520 bytes of memory
+2015-02-27 22:48:47.966478 (74)  	Network:
+2015-02-27 22:48:47.966515 (74)  		max 134217728/134217728 send/receive bytes
+2015-02-27 22:48:47.966526 (74)  		max 1024 tcp sockets
+2015-02-27 22:48:47.966841 (74)  		ip 172.17.0.7
+2015-02-27 22:48:47.966856 (74)  		ports 21302-21311
+2015-02-27 22:48:47.966865 (74)  
+2015-02-27 22:48:48.29869 (74)  	[school] I'm node 3
+2015-02-27 22:48:54.378127 (55)  	[school] try sending message "hey friend!" to node port:22251; ip:172.17.0.12; 
+2015-02-27 22:49:04.383724 (55)  	[school] could not deliver message to port:22251; ip:172.17.0.12; . retry..
+2015-02-27 22:48:47.769954 (74)  END_LOG
+2015-02-27 22:48:59.756367 (166)  END_LOG
+2015-02-27 22:49:05.737796 (55)  END_LOG

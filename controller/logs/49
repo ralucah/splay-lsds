@@ -1,0 +1,198 @@
+2015-02-25 18:58:51.55655 (166)  START_LOG
+2015-02-25 18:58:51.58504 (166)   SPLAYD LUA EXEC
+2015-02-25 18:58:51.63599 (166)  	>> Job settings:
+2015-02-25 18:58:51.63674 (166)  	Ref: 64f85734710aa4574f46e06ab28b2d66
+2015-02-25 18:58:51.63685 (166)  	Name: 
+2015-02-25 18:58:51.63693 (166)  	Description: 
+2015-02-25 18:58:51.63701 (166)  	Disk:
+2015-02-25 18:58:51.63711 (166)  		max 1024 files
+2015-02-25 18:58:51.63721 (166)  		max 1024 file descriptors
+2015-02-25 18:58:51.63731 (166)  		max 67108864 size in bytes
+2015-02-25 18:58:51.63739 (166)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_12_9/jobs_fs/64f85734710aa4574f46e06ab28b2d66/lib
+2015-02-25 18:58:51.63748 (166)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_12_9/jobs_fs/64f85734710aa4574f46e06ab28b2d66/lib/?.so
+2015-02-25 18:58:51.63758 (166)  	Mem 20971520 bytes of memory
+2015-02-25 18:58:51.63766 (166)  	Network:
+2015-02-25 18:58:51.63777 (166)  		max 134217728/134217728 send/receive bytes
+2015-02-25 18:58:51.63786 (166)  		max 1024 tcp sockets
+2015-02-25 18:58:51.63794 (166)  		ip 172.17.0.12
+2015-02-25 18:58:51.63806 (166)  		ports 22284-22293
+2015-02-25 18:58:51.63814 (166)  
+2015-02-25 18:58:51.105948 (166)  	>> Into sandbox !!!
+2015-02-25 18:58:51.106090 (166)  	> Memory: 190.8193359375 KBytes
+2015-02-25 18:58:51.106100 (166)  	> Checking sandbox...
+2015-02-25 18:58:51.106109 (166)  	   > passed
+2015-02-25 18:58:51.106117 (166)  
+2015-02-25 18:58:51.125646 (166)  	Server returned 
+2015-02-25 18:58:51.125678 (166)  	true
+2015-02-25 18:58:51.125689 (166)  	done
+2015-02-25 18:58:51.125762 (166)  	[school] I'm node 1
+2015-02-25 18:58:48.906268 (129)  START_LOG
+2015-02-25 18:58:48.908689 (129)   SPLAYD LUA EXEC
+2015-02-25 18:58:48.913477 (129)  	>> Job settings:
+2015-02-25 18:58:48.913535 (129)  	Ref: 64f85734710aa4574f46e06ab28b2d66
+2015-02-25 18:58:48.913547 (129)  	Name: 
+2015-02-25 18:58:48.913555 (129)  	Description: 
+2015-02-25 18:58:48.913563 (129)  	Disk:
+2015-02-25 18:58:48.913572 (129)  		max 1024 files
+2015-02-25 18:58:48.913581 (129)  		max 1024 file descriptors
+2015-02-25 18:58:48.913591 (129)  		max 67108864 size in bytes
+2015-02-25 18:58:48.913600 (129)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_10_6/jobs_fs/64f85734710aa4574f46e06ab28b2d66/lib
+2015-02-25 18:58:48.913609 (129)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_10_6/jobs_fs/64f85734710aa4574f46e06ab28b2d66/lib/?.so
+2015-02-25 18:58:48.913619 (129)  	Mem 20971520 bytes of memory
+2015-02-25 18:58:48.913627 (129)  	Network:
+2015-02-25 18:58:48.913715 (129)  		max 134217728/134217728 send/receive bytes
+2015-02-25 18:58:48.913726 (129)  		max 1024 tcp sockets
+2015-02-25 18:58:48.913766 (129)  		ip 172.17.0.10
+2015-02-25 18:58:48.913781 (129)  		ports 19826-19835
+2015-02-25 18:58:48.913797 (129)  
+2015-02-25 18:58:48.934384 (129)  	>> Into sandbox !!!
+2015-02-25 18:58:48.934471 (129)  	> Memory: 190.8193359375 KBytes
+2015-02-25 18:58:48.934481 (129)  	> Checking sandbox...
+2015-02-25 18:58:48.934490 (129)  	   > passed
+2015-02-25 18:58:48.934498 (129)  
+2015-02-25 18:58:51.653721 (148)  START_LOG
+2015-02-25 18:58:51.655859 (148)   SPLAYD LUA EXEC
+2015-02-25 18:58:51.660487 (148)  	>> Job settings:
+2015-02-25 18:58:51.660543 (148)  	Ref: 64f85734710aa4574f46e06ab28b2d66
+2015-02-25 18:58:51.660553 (148)  	Name: 
+2015-02-25 18:58:51.660560 (148)  	Description: 
+2015-02-25 18:58:51.660566 (148)  	Disk:
+2015-02-25 18:58:51.660575 (148)  		max 1024 files
+2015-02-25 18:58:51.660583 (148)  		max 1024 file descriptors
+2015-02-25 18:58:51.660591 (148)  		max 67108864 size in bytes
+2015-02-25 18:58:51.660599 (148)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_18_9/jobs_fs/64f85734710aa4574f46e06ab28b2d66/lib
+2015-02-25 18:58:51.660606 (148)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_18_9/jobs_fs/64f85734710aa4574f46e06ab28b2d66/lib/?.so
+2015-02-25 18:58:51.660615 (148)  	Mem 20971520 bytes of memory
+2015-02-25 18:58:51.660621 (148)  	Network:
+2015-02-25 18:58:51.660703 (148)  		max 134217728/134217728 send/receive bytes
+2015-02-25 18:58:51.660713 (148)  		max 1024 tcp sockets
+2015-02-25 18:58:51.660720 (148)  		ip 172.17.0.18
+2015-02-25 18:58:51.660732 (148)  		ports 22015-22024
+2015-02-25 18:58:51.660778 (148)  
+2015-02-25 18:58:48.944983 (129)  	Server returned 
+2015-02-25 18:58:48.945020 (129)  	true
+2015-02-25 18:58:48.945031 (129)  	done
+2015-02-25 18:58:48.945100 (129)  	[school] I'm node 4
+2015-02-25 18:58:51.680709 (148)  	>> Into sandbox !!!
+2015-02-25 18:58:51.680805 (148)  	> Memory: 190.4130859375 KBytes
+2015-02-25 18:58:51.680813 (148)  	> Checking sandbox...
+2015-02-25 18:58:51.680821 (148)  	   > passed
+2015-02-25 18:58:51.680835 (148)  
+2015-02-25 18:58:51.691385 (148)  	Server returned 
+2015-02-25 18:58:51.691409 (148)  	true
+2015-02-25 18:58:51.691419 (148)  	done
+2015-02-25 18:58:51.691478 (148)  	[school] I'm node 5
+2015-02-25 18:58:49.228520 (55)  START_LOG
+2015-02-25 18:58:49.230770 (55)   SPLAYD LUA EXEC
+2015-02-25 18:58:49.235683 (55)  	>> Job settings:
+2015-02-25 18:58:49.235761 (55)  	Ref: 64f85734710aa4574f46e06ab28b2d66
+2015-02-25 18:58:49.235772 (55)  	Name: 
+2015-02-25 18:58:49.235779 (55)  	Description: 
+2015-02-25 18:58:49.235786 (55)  	Disk:
+2015-02-25 18:58:49.235794 (55)  		max 1024 files
+2015-02-25 18:58:49.235803 (55)  		max 1024 file descriptors
+2015-02-25 18:58:49.235812 (55)  		max 67108864 size in bytes
+2015-02-25 18:58:49.235819 (55)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_16_1/jobs_fs/64f85734710aa4574f46e06ab28b2d66/lib
+2015-02-25 18:58:49.235826 (55)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_16_1/jobs_fs/64f85734710aa4574f46e06ab28b2d66/lib/?.so
+2015-02-25 18:58:49.235835 (55)  	Mem 20971520 bytes of memory
+2015-02-25 18:58:49.235841 (55)  	Network:
+2015-02-25 18:58:49.235851 (55)  		max 134217728/134217728 send/receive bytes
+2015-02-25 18:58:49.235859 (55)  		max 1024 tcp sockets
+2015-02-25 18:58:49.235866 (55)  		ip 172.17.0.16
+2015-02-25 18:58:49.235877 (55)  		ports 14568-14577
+2015-02-25 18:58:49.235910 (55)  
+2015-02-25 18:58:49.254054 (92)  START_LOG
+2015-02-25 18:58:49.264229 (92)   SPLAYD LUA EXEC
+2015-02-25 18:58:49.269170 (92)  	>> Job settings:
+2015-02-25 18:58:49.269216 (92)  	Ref: 64f85734710aa4574f46e06ab28b2d66
+2015-02-25 18:58:49.269226 (92)  	Name: 
+2015-02-25 18:58:49.269234 (92)  	Description: 
+2015-02-25 18:58:49.269242 (92)  	Disk:
+2015-02-25 18:58:49.269251 (92)  		max 1024 files
+2015-02-25 18:58:49.269261 (92)  		max 1024 file descriptors
+2015-02-25 18:58:49.269271 (92)  		max 67108864 size in bytes
+2015-02-25 18:58:49.269279 (92)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_14_4/jobs_fs/64f85734710aa4574f46e06ab28b2d66/lib
+2015-02-25 18:58:49.269288 (92)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_14_4/jobs_fs/64f85734710aa4574f46e06ab28b2d66/lib/?.so
+2015-02-25 18:58:49.269298 (92)  	Mem 20971520 bytes of memory
+2015-02-25 18:58:49.269305 (92)  	Network:
+2015-02-25 18:58:49.269316 (92)  		max 134217728/134217728 send/receive bytes
+2015-02-25 18:58:49.269325 (92)  		max 1024 tcp sockets
+2015-02-25 18:58:49.269333 (92)  		ip 172.17.0.14
+2015-02-25 18:58:49.269345 (92)  		ports 17943-17952
+2015-02-25 18:58:49.269353 (92)  
+2015-02-25 18:58:49.277728 (55)  	>> Into sandbox !!!
+2015-02-25 18:58:49.286320 (55)  	> Memory: 190.4130859375 KBytes
+2015-02-25 18:58:49.290623 (55)  	> Checking sandbox...
+2015-02-25 18:58:49.290659 (55)  	   > passed
+2015-02-25 18:58:49.290667 (55)  
+2015-02-25 18:58:49.301639 (55)  	Server returned 
+2015-02-25 18:58:49.301675 (55)  	true
+2015-02-25 18:58:49.301685 (55)  	done
+2015-02-25 18:58:49.301747 (55)  	[school] I'm node 3
+2015-02-25 18:58:49.301098 (92)  	>> Into sandbox !!!
+2015-02-25 18:58:49.301225 (92)  	> Memory: 190.8193359375 KBytes
+2015-02-25 18:58:49.301236 (92)  	> Checking sandbox...
+2015-02-25 18:58:49.301245 (92)  	   > passed
+2015-02-25 18:58:49.301252 (92)  
+2015-02-25 18:58:49.312069 (92)  	Server returned 
+2015-02-25 18:58:49.312104 (92)  	true
+2015-02-25 18:58:49.312115 (92)  	done
+2015-02-25 18:58:49.312180 (92)  	[school] I'm node 2
+2015-02-25 18:58:56.130987 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 18:59:36.136624 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 18:59:36.136673 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:00:16.141900 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:00:16.142121 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:00:56.147493 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:00:56.147710 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 18:58:52.189044 (129)  END_LOG
+2015-02-25 18:58:57.648921 (148)  END_LOG
+2015-02-25 18:58:52.556451 (55)  END_LOG
+2015-02-25 18:58:52.558347 (92)  END_LOG
+2015-02-25 19:01:36.152943 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:01:36.153092 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:02:16.158401 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:02:16.158539 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:02:56.163751 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:02:56.163910 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:03:36.168958 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:03:36.169115 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:04:16.174131 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:04:16.174308 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:04:56.179340 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:04:56.179488 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:05:36.184549 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:05:36.184709 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:06:16.189665 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:06:16.189804 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:06:56.194764 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:06:56.194928 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:07:36.198336 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:07:36.198493 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:08:16.203344 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:08:16.203501 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:08:56.208337 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:08:56.208496 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:09:36.213302 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:09:36.213482 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:10:16.218267 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:10:16.218425 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:10:56.223164 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:10:56.223319 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:11:36.228020 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:11:36.228181 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:12:16.232842 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:12:16.233064 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:12:56.237746 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:12:56.237969 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:13:36.242763 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:13:36.242903 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:14:16.247490 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:14:16.247716 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:14:56.252359 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:14:56.252575 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:15:36.257188 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:15:36.257303 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:16:16.261847 (166)  	[school] could not deliver message to ip:172.17.0.14; port:17943;  (ERROR) timeout. retry..
+2015-02-25 19:16:16.262083 (166)  	[school] try sending message "hey friend!" to node 2
+2015-02-25 19:16:22.233124 (166)  END_LOG

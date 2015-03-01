@@ -1,0 +1,52 @@
+2015-02-27 23:30:47.355716 (180)  START_LOG
+2015-02-27 23:30:47.358487 (180)   SPLAYD LUA EXEC
+2015-02-27 23:30:47.363479 (180)  	>> Job settings:
+2015-02-27 23:30:47.363526 (180)  	Ref: 0988b024e40fc7bb3f3a24440237af22
+2015-02-27 23:30:47.363536 (180)  	Name: 
+2015-02-27 23:30:47.363544 (180)  	Description: 
+2015-02-27 23:30:47.363552 (180)  	Disk:
+2015-02-27 23:30:47.363562 (180)  		max 1024 files
+2015-02-27 23:30:47.363571 (180)  		max 1024 file descriptors
+2015-02-27 23:30:47.363581 (180)  		max 67108864 size in bytes
+2015-02-27 23:30:47.363589 (180)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_6_6/jobs_fs/0988b024e40fc7bb3f3a24440237af22/lib
+2015-02-27 23:30:47.363599 (180)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_6_6/jobs_fs/0988b024e40fc7bb3f3a24440237af22/lib/?.so
+2015-02-27 23:30:47.363609 (180)  	Mem 20971520 bytes of memory
+2015-02-27 23:30:47.363617 (180)  	Network:
+2015-02-27 23:30:47.363628 (180)  		max 134217728/134217728 send/receive bytes
+2015-02-27 23:30:47.363637 (180)  		max 1024 tcp sockets
+2015-02-27 23:30:47.363646 (180)  		ip 172.17.0.6
+2015-02-27 23:30:47.363657 (180)  		ports 19000-19009
+2015-02-27 23:30:47.363665 (180)  
+2015-02-27 23:30:47.379366 (180)  	[school] number
+2015-02-27 23:30:47.379420 (180)  	[school] I'm 172.17.0.6:19000
+2015-02-27 23:30:47.379435 (180)  	[school] My position in the list is: 1
+2015-02-27 23:30:47.379449 (180)  	[school] List type is 'head' with 2 nodes
+2015-02-27 23:30:52.411098 (142)  START_LOG
+2015-02-27 23:30:52.413362 (142)   SPLAYD LUA EXEC
+2015-02-27 23:30:52.417901 (142)  	>> Job settings:
+2015-02-27 23:30:52.417974 (142)  	Ref: 0988b024e40fc7bb3f3a24440237af22
+2015-02-27 23:30:52.417986 (142)  	Name: 
+2015-02-27 23:30:52.417994 (142)  	Description: 
+2015-02-27 23:30:52.418002 (142)  	Disk:
+2015-02-27 23:30:52.418012 (142)  		max 1024 files
+2015-02-27 23:30:52.418022 (142)  		max 1024 file descriptors
+2015-02-27 23:30:52.418032 (142)  		max 67108864 size in bytes
+2015-02-27 23:30:52.418041 (142)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_9_9/jobs_fs/0988b024e40fc7bb3f3a24440237af22/lib
+2015-02-27 23:30:52.418050 (142)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_9_9/jobs_fs/0988b024e40fc7bb3f3a24440237af22/lib/?.so
+2015-02-27 23:30:52.418132 (142)  	Mem 20971520 bytes of memory
+2015-02-27 23:30:52.418142 (142)  	Network:
+2015-02-27 23:30:52.418154 (142)  		max 134217728/134217728 send/receive bytes
+2015-02-27 23:30:52.418164 (142)  		max 1024 tcp sockets
+2015-02-27 23:30:52.418194 (142)  		ip 172.17.0.9
+2015-02-27 23:30:52.418219 (142)  		ports 22328-22337
+2015-02-27 23:30:52.418229 (142)  
+2015-02-27 23:30:52.432399 (142)  	[school] number
+2015-02-27 23:30:52.432444 (142)  	[school] I'm 172.17.0.9:22328
+2015-02-27 23:30:52.432458 (142)  	[school] My position in the list is: 2
+2015-02-27 23:30:52.432471 (142)  	[school] List type is 'head' with 2 nodes
+2015-02-27 23:30:52.414164 (180)  	[school] I received an RPC from node 1
+2015-02-27 23:30:52.414497 (180)  	[school] Bye bye
+2015-02-27 23:30:53.721417 (180)  	[school] I received an RPC from node 2
+2015-02-27 23:30:57.457863 (142)  	[school] Bye bye
+2015-02-27 23:30:57.151341 (180)  END_LOG
+2015-02-27 23:31:04.435521 (142)  END_LOG

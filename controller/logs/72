@@ -1,0 +1,99 @@
+2015-02-28 19:07:37.196872 (55)  START_LOG
+2015-02-28 19:07:37.199091 (55)   SPLAYD LUA EXEC
+2015-02-28 19:07:37.204184 (55)  	>> Job settings:
+2015-02-28 19:07:37.204256 (55)  	Ref: 8c03918cd8e5db9ee4ac4548d5719834
+2015-02-28 19:07:37.204267 (55)  	Name: 
+2015-02-28 19:07:37.204274 (55)  	Description: 
+2015-02-28 19:07:37.204280 (55)  	Disk:
+2015-02-28 19:07:37.204289 (55)  		max 1024 files
+2015-02-28 19:07:37.204297 (55)  		max 1024 file descriptors
+2015-02-28 19:07:37.204306 (55)  		max 67108864 size in bytes
+2015-02-28 19:07:37.204313 (55)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_16_1/jobs_fs/8c03918cd8e5db9ee4ac4548d5719834/lib
+2015-02-28 19:07:37.204321 (55)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_16_1/jobs_fs/8c03918cd8e5db9ee4ac4548d5719834/lib/?.so
+2015-02-28 19:07:37.204330 (55)  	Mem 20971520 bytes of memory
+2015-02-28 19:07:37.204336 (55)  	Network:
+2015-02-28 19:07:37.204346 (55)  		max 134217728/134217728 send/receive bytes
+2015-02-28 19:07:37.204412 (55)  		max 1024 tcp sockets
+2015-02-28 19:07:37.204434 (55)  		ip 172.17.0.16
+2015-02-28 19:07:37.204447 (55)  		ports 14423-14432
+2015-02-28 19:07:37.204455 (55)  
+2015-02-28 19:07:39.222068 (55)  	(1) i_am_infected
+2015-02-28 19:07:39.222113 (55)  	(1) waiting for 0 to desynchronize
+2015-02-28 19:07:40.808256 (166)  START_LOG
+2015-02-28 19:07:40.810530 (166)   SPLAYD LUA EXEC
+2015-02-28 19:07:40.815267 (166)  	>> Job settings:
+2015-02-28 19:07:40.815322 (166)  	Ref: 8c03918cd8e5db9ee4ac4548d5719834
+2015-02-28 19:07:40.815333 (166)  	Name: 
+2015-02-28 19:07:40.815341 (166)  	Description: 
+2015-02-28 19:07:40.815349 (166)  	Disk:
+2015-02-28 19:07:40.815359 (166)  		max 1024 files
+2015-02-28 19:07:40.815369 (166)  		max 1024 file descriptors
+2015-02-28 19:07:40.815379 (166)  		max 67108864 size in bytes
+2015-02-28 19:07:40.815388 (166)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_12_9/jobs_fs/8c03918cd8e5db9ee4ac4548d5719834/lib
+2015-02-28 19:07:40.815397 (166)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_12_9/jobs_fs/8c03918cd8e5db9ee4ac4548d5719834/lib/?.so
+2015-02-28 19:07:40.815475 (166)  	Mem 20971520 bytes of memory
+2015-02-28 19:07:40.815503 (166)  	Network:
+2015-02-28 19:07:40.815517 (166)  		max 134217728/134217728 send/receive bytes
+2015-02-28 19:07:40.815528 (166)  		max 1024 tcp sockets
+2015-02-28 19:07:40.815558 (166)  		ip 172.17.0.12
+2015-02-28 19:07:38.270816 (37)  START_LOG
+2015-02-28 19:07:38.273069 (37)   SPLAYD LUA EXEC
+2015-02-28 19:07:38.277963 (37)  	>> Job settings:
+2015-02-28 19:07:38.278039 (37)  	Ref: 8c03918cd8e5db9ee4ac4548d5719834
+2015-02-28 19:07:40.815571 (166)  		ports 22486-22495
+2015-02-28 19:07:40.815580 (166)  
+2015-02-28 19:07:42.832849 (166)  	(2) waiting for 13.221649133238 to desynchronize
+2015-02-28 19:07:38.278051 (37)  	Name: 
+2015-02-28 19:07:38.278060 (37)  	Description: 
+2015-02-28 19:07:38.278068 (37)  	Disk:
+2015-02-28 19:07:38.278077 (37)  		max 1024 files
+2015-02-28 19:07:38.278087 (37)  		max 1024 file descriptors
+2015-02-28 19:07:38.278107 (37)  		max 67108864 size in bytes
+2015-02-28 19:07:38.278116 (37)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_14_1/jobs_fs/8c03918cd8e5db9ee4ac4548d5719834/lib
+2015-02-28 19:07:38.278125 (37)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_14_1/jobs_fs/8c03918cd8e5db9ee4ac4548d5719834/lib/?.so
+2015-02-28 19:07:38.278135 (37)  	Mem 20971520 bytes of memory
+2015-02-28 19:07:38.278143 (37)  	Network:
+2015-02-28 19:07:38.278227 (37)  		max 134217728/134217728 send/receive bytes
+2015-02-28 19:07:38.278239 (37)  		max 1024 tcp sockets
+2015-02-28 19:07:38.278248 (37)  		ip 172.17.0.14
+2015-02-28 19:07:38.278260 (37)  		ports 14011-14020
+2015-02-28 19:07:38.278293 (37)  
+2015-02-28 19:07:40.295760 (37)  	(3) waiting for 13.723370076028 to desynchronize
+2015-02-28 19:07:59.247919 (55)  	(1) (yes) called node 2 and received yes
+2015-02-28 19:08:03.337905 (166)  	(2) (no)  was called and received yes
+2015-02-28 19:08:03.337938 (166)  	(2) i_am_infected
+2015-02-28 19:08:11.995168 (55)  	(1) (yes)  was called and received yes
+2015-02-28 19:08:16.86287 (166)  	(2) (yes) called node 1 and received yes
+2015-02-28 19:08:18.157871 (166)  	(2) (yes)  was called and received no
+2015-02-28 19:08:14.54744 (37)  	(3) (no) called node 2 and received yes
+2015-02-28 19:08:14.54895 (37)  	(3) i_am_infected
+2015-02-28 19:08:19.239501 (37)  	(3) (yes)  was called and received yes
+2015-02-28 19:08:19.253189 (55)  	(1) (yes) called node 3 and received yes
+2015-02-28 19:08:36.102408 (166)  	(2) (yes) called node 1 and received yes
+2015-02-28 19:08:32.11126 (55)  	(1) (yes)  was called and received yes
+2015-02-28 19:08:34.80033 (55)  	(1) (yes)  was called and received yes
+2015-02-28 19:08:34.67406 (37)  	(3) (yes) called node 1 and received yes
+2015-02-28 19:08:39.258485 (55)  	(1) (yes) called node 2 and received yes
+2015-02-28 19:08:43.348566 (166)  	(2) (yes)  was called and received yes
+2015-02-28 19:08:52.11050 (37)  	(3) (yes)  was called and received yes
+2015-02-28 19:08:56.115445 (166)  	(2) (yes) called node 3 and received yes
+2015-02-28 19:08:54.82582 (55)  	(1) (yes)  was called and received yes
+2015-02-28 19:08:54.74161 (37)  	(3) (yes) called node 1 and received yes
+2015-02-28 19:08:59.263982 (55)  	(1) (yes) called node 3 and received yes
+2015-02-28 19:08:59.250328 (37)  	(3) (yes)  was called and received yes
+2015-02-28 19:09:16.135671 (166)  	(2) (yes) called node 3 and received yes
+2015-02-28 19:09:12.31286 (37)  	(3) (yes)  was called and received yes
+2015-02-28 19:09:18.175536 (166)  	(2) (yes)  was called and received yes
+2015-02-28 19:09:14.71915 (37)  	(3) (yes) called node 2 and received yes
+2015-02-28 19:09:23.374235 (166)  	(2) (yes)  was called and received yes
+2015-02-28 19:09:19.287174 (55)  	(1) (yes) called node 2 and received yes
+2015-02-28 19:09:32.57253 (55)  	(1) (yes)  was called and received yes
+2015-02-28 19:09:36.148506 (166)  	(2) (yes) called node 1 and received yes
+2015-02-28 19:09:34.104646 (55)  	(1) (yes)  was called and received yes
+2015-02-28 19:09:34.91859 (37)  	(3) (yes) called node 1 and received yes
+2015-02-28 19:09:39.227916 (55)  	(1) Stopping. infected:yes
+2015-02-28 19:09:36.650566 (55)  END_LOG
+2015-02-28 19:09:56.88242 (166)  	(2) Stopping. infected:yes
+2015-02-28 19:09:54.86536 (166)  END_LOG
+2015-02-28 19:09:54.53447 (37)  	(3) Stopping. infected:yes
+2015-02-28 19:09:48.630727 (37)  END_LOG

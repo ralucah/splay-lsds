@@ -1,0 +1,117 @@
+15:03:57.75078 (85)  START_LOG
+15:03:57.78730 (85)  SPLAYD LUA EXEC
+15:03:57.86067 (66)  START_LOG
+15:03:57.86165 (66)  SPLAYD LUA EXEC
+15:03:57.91619 (85)  >> Job settings:
+15:03:57.91840 (85)  Ref: 39eb290b7f3f6a7ebac8385434ef6c3c
+15:03:57.91945 (85)  Name: 
+15:03:57.92066 (85)  Description: 
+15:03:57.92132 (85)  Disk:
+15:03:57.92305 (85)  	max 512 files
+15:03:57.92418 (85)  	max 32 file descriptors
+15:03:57.92616 (85)  	max 67108864 size in bytes
+15:03:57.92852 (85)  	lib directoy /home/splayd/local_splay_cluster/hosts/host_4_15/jobs_fs/39eb290b7f3f6a7ebac8385434ef6c3c/lib
+15:03:57.93182 (85)  	cpath : /home/splayd/local/lualibs/clib/?.so;./?.so;/usr/local/lib/lua/5.1/?.so;/usr/lib/i386-linux-gnu/lua/5.1/?.so;/usr/lib/lua/5.1/?.so;/usr/local/lib/lua/5.1/loadall.so;/home/splayd/local_splay_cluster/hosts/host_4_15/jobs_fs/39eb290b7f3f6a7ebac8385434ef6c3c/lib/?.so
+15:03:57.93385 (85)  Mem 2097152 bytes of memory
+15:03:57.93537 (85)  Network:
+15:03:57.93713 (66)  >> Job settings:
+15:03:57.93802 (66)  Ref: 39eb290b7f3f6a7ebac8385434ef6c3c
+15:03:57.93917 (66)  Name: 
+15:03:57.93984 (66)  Description: 
+15:03:57.94236 (66)  Disk:
+15:03:57.94302 (66)  	max 512 files
+15:03:57.94422 (66)  	max 32 file descriptors
+15:03:57.94691 (85)  	max 134217728/134217728 send/receive bytes
+15:03:57.94878 (66)  	max 67108864 size in bytes
+15:03:57.94991 (66)  	lib directoy /home/splayd/local_splay_cluster/hosts/host_3_14/jobs_fs/39eb290b7f3f6a7ebac8385434ef6c3c/lib
+15:03:57.95520 (66)  	cpath : /home/splayd/local/lualibs/clib/?.so;./?.so;/usr/local/lib/lua/5.1/?.so;/usr/lib/i386-linux-gnu/lua/5.1/?.so;/usr/lib/lua/5.1/?.so;/usr/local/lib/lua/5.1/loadall.so;/home/splayd/local_splay_cluster/hosts/host_3_14/jobs_fs/39eb290b7f3f6a7ebac8385434ef6c3c/lib/?.so
+15:03:57.95601 (85)  	max 32 tcp sockets
+15:03:57.95697 (85)  	ip 172.17.0.6
+15:03:57.95755 (85)  	ports 20171-20171
+15:03:57.95810 (85)  
+15:03:57.114839 (85)  >> Into sandbox !!!
+15:03:57.115015 (85)  > Memory: 154.0361328125 KBytes
+15:03:57.115076 (85)  > Checking sandbox...
+15:03:57.115130 (85)     > passed
+15:03:57.115217 (85)  
+15:03:57.155776 (66)  Mem 2097152 bytes of memory
+15:03:57.155945 (66)  Network:
+15:03:57.156057 (66)  	max 134217728/134217728 send/receive bytes
+15:03:57.156464 (66)  	max 32 tcp sockets
+15:03:57.156578 (66)  	ip 172.17.0.5
+15:03:57.156634 (66)  	ports 19561-19561
+15:03:57.156739 (66)  
+15:03:57.156795 (66)  >> Into sandbox !!!
+15:03:57.156849 (66)  > Memory: 148.5791015625 KBytes
+15:03:57.156903 (66)  > Checking sandbox...
+15:03:57.156987 (66)     > passed
+15:03:57.157044 (66)  
+15:03:57.466559 (28)  START_LOG
+15:03:57.466691 (28)  SPLAYD LUA EXEC
+15:03:57.482202 (28)  >> Job settings:
+15:03:57.482673 (28)  Ref: 39eb290b7f3f6a7ebac8385434ef6c3c
+15:03:57.482752 (28)  Name: 
+15:03:57.482809 (28)  Description: 
+15:03:57.483143 (28)  Disk:
+15:03:57.483210 (28)  	max 512 files
+15:03:57.483265 (28)  	max 32 file descriptors
+15:03:57.483951 (28)  	max 67108864 size in bytes
+15:03:57.484102 (28)  	lib directoy /home/splayd/local_splay_cluster/hosts/host_2_9/jobs_fs/39eb290b7f3f6a7ebac8385434ef6c3c/lib
+15:03:57.484668 (28)  	cpath : /home/splayd/local/lualibs/clib/?.so;./?.so;/usr/local/lib/lua/5.1/?.so;/usr/lib/i386-linux-gnu/lua/5.1/?.so;/usr/lib/lua/5.1/?.so;/usr/local/lib/lua/5.1/loadall.so;/home/splayd/local_splay_cluster/hosts/host_2_9/jobs_fs/39eb290b7f3f6a7ebac8385434ef6c3c/lib/?.so
+15:03:57.484819 (28)  Mem 2097152 bytes of memory
+15:03:57.484878 (28)  Network:
+15:03:57.484933 (28)  	max 134217728/134217728 send/receive bytes
+15:03:57.484990 (28)  	max 32 tcp sockets
+15:03:57.485044 (28)  	ip 172.17.0.4
+15:03:57.485566 (28)  	ports 17198-17198
+15:03:57.485691 (28)  
+15:03:57.508133 (28)  >> Into sandbox !!!
+15:03:57.508257 (28)  > Memory: 153.931640625 KBytes
+15:03:57.508314 (28)  > Checking sandbox...
+15:03:57.508370 (28)     > passed
+15:03:57.508470 (28)  
+15:03:59.126218 (85)  number
+15:03:59.126404 (85)  i_am_infected
+15:03:59.126475 (85)  waiting for 0 to desynchronize
+15:03:59.127537 (66)  number
+15:03:59.127736 (66)  waiting for 17.012288615579 to desynchronize
+15:03:59.519760 (28)  number
+15:03:59.519988 (28)  waiting for 7.7966686001963 to desynchronize
+15:04:19.184505 (28)  (no)  was called and received yes
+15:04:19.188686 (28)  i_am_infected
+15:04:19.226818 (85)  (yes) called node 3 and received yes
+15:04:27.331597 (85)  (yes)  was called and received yes
+15:04:27.333156 (28)  (yes) called node 1 and received yes
+15:04:36.180602 (28)  (yes)  was called and received no
+15:04:36.182132 (66)  (no) called node 3 and received yes
+15:04:36.182277 (66)  i_am_infected
+15:04:39.153331 (66)  (yes)  was called and received yes
+15:04:39.154767 (85)  (yes) called node 2 and received yes
+15:04:47.336755 (85)  (yes)  was called and received yes
+15:04:47.338696 (28)  (yes) called node 1 and received yes
+15:04:56.183868 (28)  (yes)  was called and received yes
+15:04:56.185236 (66)  (yes) called node 3 and received yes
+15:04:59.157987 (28)  (yes)  was called and received yes
+15:04:59.159513 (85)  (yes) called node 3 and received yes
+15:05:07.342047 (85)  (yes)  was called and received yes
+15:05:07.343901 (28)  (yes) called node 1 and received yes
+15:05:16.189094 (85)  (yes)  was called and received yes
+15:05:16.190708 (66)  (yes) called node 1 and received yes
+15:05:19.161278 (66)  (yes)  was called and received yes
+15:05:19.162773 (85)  (yes) called node 2 and received yes
+15:05:27.347020 (66)  (yes)  was called and received yes
+15:05:27.348837 (28)  (yes) called node 2 and received yes
+15:05:36.194488 (85)  (yes)  was called and received yes
+15:05:36.196099 (66)  (yes) called node 1 and received yes
+15:05:39.164356 (28)  (yes)  was called and received yes
+15:05:39.166130 (85)  (yes) called node 3 and received yes
+15:05:47.352411 (85)  (yes)  was called and received yes
+15:05:47.354056 (28)  (yes) called node 1 and received yes
+15:05:56.196234 (85)  (yes)  was called and received yes
+15:05:56.198091 (66)  (yes) called node 1 and received yes
+15:05:59.129487 (85)  Stopping. infected:yes
+15:05:59.130069 (85)  END_LOG
+15:06:07.326934 (28)  Stopping. infected:yes
+15:06:07.327723 (28)  END_LOG
+15:06:16.162241 (66)  Stopping. infected:yes
+15:06:16.162988 (66)  END_LOG

@@ -1,0 +1,102 @@
+2015-02-28 19:09:11.735678 (37)  START_LOG
+2015-02-28 19:09:11.738087 (37)   SPLAYD LUA EXEC
+2015-02-28 19:09:11.743259 (37)  	>> Job settings:
+2015-02-28 19:09:11.743337 (37)  	Ref: 507556e663ae12507933216162cae2e6
+2015-02-28 19:09:11.743348 (37)  	Name: 
+2015-02-28 19:09:11.743357 (37)  	Description: 
+2015-02-28 19:09:11.743365 (37)  	Disk:
+2015-02-28 19:09:11.743375 (37)  		max 1024 files
+2015-02-28 19:09:11.743385 (37)  		max 1024 file descriptors
+2015-02-28 19:09:11.743396 (37)  		max 67108864 size in bytes
+2015-02-28 19:09:11.743421 (37)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_14_1/jobs_fs/507556e663ae12507933216162cae2e6/lib
+2015-02-28 19:09:11.743432 (37)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_14_1/jobs_fs/507556e663ae12507933216162cae2e6/lib/?.so
+2015-02-28 19:09:11.743518 (37)  	Mem 20971520 bytes of memory
+2015-02-28 19:09:11.743527 (37)  	Network:
+2015-02-28 19:09:12.309293 (55)  START_LOG
+2015-02-28 19:09:12.311771 (55)   SPLAYD LUA EXEC
+2015-02-28 19:09:12.316868 (55)  	>> Job settings:
+2015-02-28 19:09:12.316942 (55)  	Ref: 507556e663ae12507933216162cae2e6
+2015-02-28 19:09:12.316952 (55)  	Name: 
+2015-02-28 19:09:12.316959 (55)  	Description: 
+2015-02-28 19:09:12.316966 (55)  	Disk:
+2015-02-28 19:09:12.316974 (55)  		max 1024 files
+2015-02-28 19:09:12.316983 (55)  		max 1024 file descriptors
+2015-02-28 19:09:12.316992 (55)  		max 67108864 size in bytes
+2015-02-28 19:09:12.317000 (55)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_16_1/jobs_fs/507556e663ae12507933216162cae2e6/lib
+2015-02-28 19:09:12.317025 (55)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_16_1/jobs_fs/507556e663ae12507933216162cae2e6/lib/?.so
+2015-02-28 19:09:12.317036 (55)  	Mem 20971520 bytes of memory
+2015-02-28 19:09:12.317116 (55)  	Network:
+2015-02-28 19:09:12.317130 (55)  		max 134217728/134217728 send/receive bytes
+2015-02-28 19:09:12.317139 (55)  		max 1024 tcp sockets
+2015-02-28 19:09:12.317147 (55)  		ip 172.17.0.16
+2015-02-28 19:09:12.317159 (55)  		ports 14822-14831
+2015-02-28 19:09:12.317166 (55)  
+2015-02-28 19:09:11.743540 (37)  		max 134217728/134217728 send/receive bytes
+2015-02-28 19:09:11.743552 (37)  		max 1024 tcp sockets
+2015-02-28 19:09:11.743561 (37)  		ip 172.17.0.14
+2015-02-28 19:09:11.743617 (37)  		ports 14432-14441
+2015-02-28 19:09:11.743627 (37)  
+2015-02-28 19:09:17.8217 (166)  START_LOG
+2015-02-28 19:09:17.10684 (166)   SPLAYD LUA EXEC
+2015-02-28 19:09:17.15681 (166)  	>> Job settings:
+2015-02-28 19:09:17.15754 (166)  	Ref: 507556e663ae12507933216162cae2e6
+2015-02-28 19:09:17.15766 (166)  	Name: 
+2015-02-28 19:09:17.15775 (166)  	Description: 
+2015-02-28 19:09:17.15783 (166)  	Disk:
+2015-02-28 19:09:17.15793 (166)  		max 1024 files
+2015-02-28 19:09:17.15803 (166)  		max 1024 file descriptors
+2015-02-28 19:09:17.15813 (166)  		max 67108864 size in bytes
+2015-02-28 19:09:17.15821 (166)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_12_9/jobs_fs/507556e663ae12507933216162cae2e6/lib
+2015-02-28 19:09:17.15831 (166)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_12_9/jobs_fs/507556e663ae12507933216162cae2e6/lib/?.so
+2015-02-28 19:09:17.15841 (166)  	Mem 20971520 bytes of memory
+2015-02-28 19:09:17.15921 (166)  	Network:
+2015-02-28 19:09:17.15935 (166)  		max 134217728/134217728 send/receive bytes
+2015-02-28 19:09:17.15945 (166)  		max 1024 tcp sockets
+2015-02-28 19:09:17.15954 (166)  		ip 172.17.0.12
+2015-02-28 19:09:17.15966 (166)  		ports 22957-22966
+2015-02-28 19:09:17.16004 (166)  
+2015-02-28 19:09:13.761532 (37)  	(3) waiting for 4.278157299514 to desynchronize
+2015-02-28 19:09:14.333977 (55)  	(1) i_am_infected
+2015-02-28 19:09:14.334022 (55)  	(1) waiting for 0 to desynchronize
+2015-02-28 19:09:19.32245 (166)  	(2) waiting for 7.966386008992 to desynchronize
+2015-02-28 19:09:24.344689 (55)  	(1) forwarding to 2 peers
+2015-02-28 19:09:24.344726 (55)  	(1) send to 3
+2015-02-28 19:09:24.342686 (37)  	(3) (no) was notified with hops 0 (HTL=3)
+2015-02-28 19:09:24.342714 (37)  	(3) i_am_infected
+2015-02-28 19:09:24.356186 (55)  	(1) send to 2
+2015-02-28 19:09:28.449014 (166)  	(2) (no) was notified with hops 0 (HTL=3)
+2015-02-28 19:09:28.449046 (166)  	(2) i_am_infected
+2015-02-28 19:09:28.48426 (37)  	(3) forwarding to 2 peers
+2015-02-28 19:09:28.48463 (37)  	(3) send to 2
+2015-02-28 19:09:32.156789 (166)  	(2) (yes) was notified with hops 1 (HTL=3)
+2015-02-28 19:09:28.53074 (37)  	(3) send to 1
+2015-02-28 19:09:28.68388 (55)  	(1) (yes) was notified with hops 1 (HTL=3)
+2015-02-28 19:09:28.68568 (55)  	(1) duplicate
+2015-02-28 19:09:32.156824 (166)  	(2) duplicate
+2015-02-28 19:09:37.12175 (166)  	(2) forwarding to 2 peers
+2015-02-28 19:09:37.12208 (166)  	(2) send to 1
+2015-02-28 19:09:32.925328 (55)  	(1) (yes) was notified with hops 2 (HTL=3)
+2015-02-28 19:09:32.925514 (55)  	(1) duplicate
+2015-02-28 19:09:37.16786 (166)  	(2) send to 3
+2015-02-28 19:09:32.914393 (37)  	(3) (yes) was notified with hops 2 (HTL=3)
+2015-02-28 19:09:32.914535 (37)  	(3) duplicate
+2015-02-28 19:09:34.346306 (55)  	(1) forwarding to 2 peers
+2015-02-28 19:09:34.346471 (55)  	(1) send to 3
+2015-02-28 19:09:34.349212 (55)  	(1) send to 2
+2015-02-28 19:09:38.442145 (166)  	(2) (yes) was notified with hops 3 (HTL=3)
+2015-02-28 19:09:38.442380 (166)  	(2) duplicate
+2015-02-28 19:09:34.335501 (37)  	(3) (yes) was notified with hops 3 (HTL=3)
+2015-02-28 19:09:34.335615 (37)  	(3) duplicate
+2015-02-28 19:09:38.52432 (37)  	(3) forwarding to 2 peers
+2015-02-28 19:09:38.52601 (37)  	(3) send to 1
+2015-02-28 19:09:38.68406 (55)  	(1) (yes) was notified with hops 3 (HTL=3)
+2015-02-28 19:09:38.68561 (55)  	(1) duplicate
+2015-02-28 19:09:38.55811 (37)  	(3) send to 2
+2015-02-28 19:09:42.162087 (166)  	(2) (yes) was notified with hops 3 (HTL=3)
+2015-02-28 19:09:42.162304 (166)  	(2) duplicate
+2015-02-28 19:11:14.344491 (55)  	(1) Stopping. infected:yes
+2015-02-28 19:11:17.561688 (55)  END_LOG
+2015-02-28 19:11:18.54438 (37)  	(3) Stopping. infected:yes
+2015-02-28 19:11:20.802350 (37)  END_LOG
+2015-02-28 19:11:27.17146 (166)  	(2) Stopping. infected:yes
+2015-02-28 19:11:34.68323 (166)  END_LOG

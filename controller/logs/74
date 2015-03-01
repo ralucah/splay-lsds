@@ -1,0 +1,23 @@
+2015-02-28 19:25:41.717701 (129)  START_LOG
+2015-02-28 19:25:41.720052 (129)   SPLAYD LUA EXEC
+2015-02-28 19:25:41.725548 (129)  	>> Job settings:
+2015-02-28 19:25:41.725627 (129)  	Ref: e833f8489341f964ddb6d1b223d5d99d
+2015-02-28 19:25:41.725638 (129)  	Name: 
+2015-02-28 19:25:41.725647 (129)  	Description: 
+2015-02-28 19:25:41.725656 (129)  	Disk:
+2015-02-28 19:25:41.725666 (129)  		max 1024 files
+2015-02-28 19:25:41.725676 (129)  		max 1024 file descriptors
+2015-02-28 19:25:41.725686 (129)  		max 67108864 size in bytes
+2015-02-28 19:25:41.725695 (129)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_10_6/jobs_fs/e833f8489341f964ddb6d1b223d5d99d/lib
+2015-02-28 19:25:41.725704 (129)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_10_6/jobs_fs/e833f8489341f964ddb6d1b223d5d99d/lib/?.so
+2015-02-28 19:25:41.725772 (129)  	Mem 20971520 bytes of memory
+2015-02-28 19:25:41.725797 (129)  	Network:
+2015-02-28 19:25:41.725813 (129)  		max 134217728/134217728 send/receive bytes
+2015-02-28 19:25:41.725823 (129)  		max 1024 tcp sockets
+2015-02-28 19:25:41.725833 (129)  		ip 172.17.0.10
+2015-02-28 19:25:41.725873 (129)  		ports 19604-19613
+2015-02-28 19:25:41.725883 (129)  
+2015-02-28 19:25:41.742167 (129)  	(1) initial view
+2015-02-28 19:25:41.742211 (129)  	(1) content of the view --> 1 
+2015-02-28 19:25:43.744444 (129)  	(1) waiting for 10.313514364098 to desynchronize
+2015-02-28 19:25:45.956585 (129)  END_LOG

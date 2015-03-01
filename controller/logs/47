@@ -1,0 +1,135 @@
+2015-02-25 18:56:49.504755 (129)  START_LOG
+2015-02-25 18:56:49.506900 (129)   SPLAYD LUA EXEC
+2015-02-25 18:56:49.511674 (129)  	>> Job settings:
+2015-02-25 18:56:49.511731 (129)  	Ref: 89ff55e0c8e81e2947ff66fc701eb350
+2015-02-25 18:56:49.511742 (129)  	Name: 
+2015-02-25 18:56:49.511750 (129)  	Description: 
+2015-02-25 18:56:49.511758 (129)  	Disk:
+2015-02-25 18:56:49.511768 (129)  		max 1024 files
+2015-02-25 18:56:49.511778 (129)  		max 1024 file descriptors
+2015-02-25 18:56:49.511788 (129)  		max 67108864 size in bytes
+2015-02-25 18:56:49.511796 (129)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_10_6/jobs_fs/89ff55e0c8e81e2947ff66fc701eb350/lib
+2015-02-25 18:56:49.511805 (129)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_10_6/jobs_fs/89ff55e0c8e81e2947ff66fc701eb350/lib/?.so
+2015-02-25 18:56:49.511816 (129)  	Mem 20971520 bytes of memory
+2015-02-25 18:56:49.511823 (129)  	Network:
+2015-02-25 18:56:49.511907 (129)  		max 134217728/134217728 send/receive bytes
+2015-02-25 18:56:49.511918 (129)  		max 1024 tcp sockets
+2015-02-25 18:56:49.511927 (129)  		ip 172.17.0.10
+2015-02-25 18:56:49.511940 (129)  		ports 19334-19343
+2015-02-25 18:56:49.511967 (129)  
+2015-02-25 18:56:49.532877 (129)  	>> Into sandbox !!!
+2015-02-25 18:56:49.532945 (129)  	> Memory: 190.7822265625 KBytes
+2015-02-25 18:56:49.532955 (129)  	> Checking sandbox...
+2015-02-25 18:56:49.532964 (129)  	   > passed
+2015-02-25 18:56:49.532972 (129)  
+1970-01-01 01:00:00.0 (129)   [string "job code"]:40: attempt to call field 'global_level' (a number value)
+2015-02-25 18:56:49.543956 (129)   SPLAYD LUA END
+2015-02-25 18:56:52.787540 (129)  END_LOG
+2015-02-25 18:56:49.641022 (92)  START_LOG
+2015-02-25 18:56:49.643307 (92)   SPLAYD LUA EXEC
+2015-02-25 18:56:49.647991 (92)  	>> Job settings:
+2015-02-25 18:56:49.648208 (92)  	Ref: 89ff55e0c8e81e2947ff66fc701eb350
+2015-02-25 18:56:49.648259 (92)  	Name: 
+2015-02-25 18:56:49.648312 (92)  	Description: 
+2015-02-25 18:56:49.648353 (92)  	Disk:
+2015-02-25 18:56:49.648397 (92)  		max 1024 files
+2015-02-25 18:56:49.648465 (92)  		max 1024 file descriptors
+2015-02-25 18:56:49.648538 (92)  		max 67108864 size in bytes
+2015-02-25 18:56:49.648577 (92)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_14_4/jobs_fs/89ff55e0c8e81e2947ff66fc701eb350/lib
+2015-02-25 18:56:49.648624 (92)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_14_4/jobs_fs/89ff55e0c8e81e2947ff66fc701eb350/lib/?.so
+2015-02-25 18:56:49.648687 (92)  	Mem 20971520 bytes of memory
+2015-02-25 18:56:49.648731 (92)  	Network:
+2015-02-25 18:56:49.648776 (92)  		max 134217728/134217728 send/receive bytes
+2015-02-25 18:56:49.648831 (92)  		max 1024 tcp sockets
+2015-02-25 18:56:49.648889 (92)  		ip 172.17.0.14
+2015-02-25 18:56:49.648938 (92)  		ports 17000-17009
+2015-02-25 18:56:49.648977 (92)  
+2015-02-25 18:56:49.669124 (92)  	>> Into sandbox !!!
+2015-02-25 18:56:49.669234 (92)  	> Memory: 190.7822265625 KBytes
+2015-02-25 18:56:49.669245 (92)  	> Checking sandbox...
+2015-02-25 18:56:49.669254 (92)  	   > passed
+2015-02-25 18:56:49.669261 (92)  
+1970-01-01 01:00:00.0 (92)   [string "job code"]:40: attempt to call field 'global_level' (a number value)
+2015-02-25 18:56:49.680331 (92)   SPLAYD LUA END
+2015-02-25 18:56:52.923949 (92)  END_LOG
+2015-02-25 18:56:49.882380 (37)  START_LOG
+2015-02-25 18:56:49.884597 (37)   SPLAYD LUA EXEC
+2015-02-25 18:56:49.889412 (37)  	>> Job settings:
+2015-02-25 18:56:49.889534 (37)  	Ref: 89ff55e0c8e81e2947ff66fc701eb350
+2015-02-25 18:56:49.889546 (37)  	Name: 
+2015-02-25 18:56:49.889555 (37)  	Description: 
+2015-02-25 18:56:49.889563 (37)  	Disk:
+2015-02-25 18:56:49.889573 (37)  		max 1024 files
+2015-02-25 18:56:49.889583 (37)  		max 1024 file descriptors
+2015-02-25 18:56:49.889666 (37)  		max 67108864 size in bytes
+2015-02-25 18:56:49.889676 (37)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_14_1/jobs_fs/89ff55e0c8e81e2947ff66fc701eb350/lib
+2015-02-25 18:56:49.889686 (37)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_14_1/jobs_fs/89ff55e0c8e81e2947ff66fc701eb350/lib/?.so
+2015-02-25 18:56:49.889697 (37)  	Mem 20971520 bytes of memory
+2015-02-25 18:56:49.889725 (37)  	Network:
+2015-02-25 18:56:49.889739 (37)  		max 134217728/134217728 send/receive bytes
+2015-02-25 18:56:49.889750 (37)  		max 1024 tcp sockets
+2015-02-25 18:56:49.889759 (37)  		ip 172.17.0.14
+2015-02-25 18:56:49.889798 (37)  		ports 14110-14119
+2015-02-25 18:56:49.889807 (37)  
+2015-02-25 18:56:49.910094 (37)  	>> Into sandbox !!!
+2015-02-25 18:56:49.910156 (37)  	> Memory: 190.7822265625 KBytes
+2015-02-25 18:56:49.910165 (37)  	> Checking sandbox...
+2015-02-25 18:56:49.910174 (37)  	   > passed
+2015-02-25 18:56:49.910189 (37)  
+1970-01-01 01:00:00.0 (37)   [string "job code"]:40: attempt to call field 'global_level' (a number value)
+2015-02-25 18:56:49.921106 (37)   SPLAYD LUA END
+2015-02-25 18:56:53.165098 (37)  END_LOG
+2015-02-25 18:56:49.990092 (55)  START_LOG
+2015-02-25 18:56:49.992308 (55)   SPLAYD LUA EXEC
+2015-02-25 18:56:49.997062 (55)  	>> Job settings:
+2015-02-25 18:56:49.997146 (55)  	Ref: 89ff55e0c8e81e2947ff66fc701eb350
+2015-02-25 18:56:49.997157 (55)  	Name: 
+2015-02-25 18:56:49.997164 (55)  	Description: 
+2015-02-25 18:56:49.997170 (55)  	Disk:
+2015-02-25 18:56:49.997178 (55)  		max 1024 files
+2015-02-25 18:56:49.997187 (55)  		max 1024 file descriptors
+2015-02-25 18:56:49.997195 (55)  		max 67108864 size in bytes
+2015-02-25 18:56:49.997202 (55)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_16_1/jobs_fs/89ff55e0c8e81e2947ff66fc701eb350/lib
+2015-02-25 18:56:49.997210 (55)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_16_1/jobs_fs/89ff55e0c8e81e2947ff66fc701eb350/lib/?.so
+2015-02-25 18:56:49.997220 (55)  	Mem 20971520 bytes of memory
+2015-02-25 18:56:49.997226 (55)  	Network:
+2015-02-25 18:56:49.997236 (55)  		max 134217728/134217728 send/receive bytes
+2015-02-25 18:56:49.997244 (55)  		max 1024 tcp sockets
+2015-02-25 18:56:49.997250 (55)  		ip 172.17.0.16
+2015-02-25 18:56:49.997260 (55)  		ports 14381-14390
+2015-02-25 18:56:49.997267 (55)  
+2015-02-25 18:56:50.17454 (55)  	>> Into sandbox !!!
+2015-02-25 18:56:50.17536 (55)  	> Memory: 190.375 KBytes
+2015-02-25 18:56:50.17544 (55)  	> Checking sandbox...
+2015-02-25 18:56:50.17551 (55)  	   > passed
+2015-02-25 18:56:50.17566 (55)  
+1970-01-01 01:00:00.0 (55)   [string "job code"]:40: attempt to call field 'global_level' (a number value)
+2015-02-25 18:56:50.28639 (55)   SPLAYD LUA END
+2015-02-25 18:56:53.282748 (55)  END_LOG
+2015-02-25 18:56:53.547862 (166)  START_LOG
+2015-02-25 18:56:53.550034 (166)   SPLAYD LUA EXEC
+2015-02-25 18:56:53.554856 (166)  	>> Job settings:
+2015-02-25 18:56:53.554934 (166)  	Ref: 89ff55e0c8e81e2947ff66fc701eb350
+2015-02-25 18:56:53.554946 (166)  	Name: 
+2015-02-25 18:56:53.554954 (166)  	Description: 
+2015-02-25 18:56:53.554962 (166)  	Disk:
+2015-02-25 18:56:53.554972 (166)  		max 1024 files
+2015-02-25 18:56:53.554982 (166)  		max 1024 file descriptors
+2015-02-25 18:56:53.554992 (166)  		max 67108864 size in bytes
+2015-02-25 18:56:53.555001 (166)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_12_9/jobs_fs/89ff55e0c8e81e2947ff66fc701eb350/lib
+2015-02-25 18:56:53.555010 (166)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_12_9/jobs_fs/89ff55e0c8e81e2947ff66fc701eb350/lib/?.so
+2015-02-25 18:56:53.555092 (166)  	Mem 20971520 bytes of memory
+2015-02-25 18:56:53.555101 (166)  	Network:
+2015-02-25 18:56:53.555113 (166)  		max 134217728/134217728 send/receive bytes
+2015-02-25 18:56:53.555135 (166)  		max 1024 tcp sockets
+2015-02-25 18:56:53.555171 (166)  		ip 172.17.0.12
+2015-02-25 18:56:53.555185 (166)  		ports 22070-22079
+2015-02-25 18:56:53.555194 (166)  
+2015-02-25 18:56:53.576041 (166)  	>> Into sandbox !!!
+2015-02-25 18:56:53.576124 (166)  	> Memory: 191.1884765625 KBytes
+2015-02-25 18:56:53.576167 (166)  	> Checking sandbox...
+2015-02-25 18:56:53.576222 (166)  	   > passed
+2015-02-25 18:56:53.576230 (166)  
+1970-01-01 01:00:00.0 (166)   [string "job code"]:40: attempt to call field 'global_level' (a number value)
+2015-02-25 18:56:53.587155 (166)   SPLAYD LUA END
+2015-02-25 18:56:59.558010 (166)  END_LOG

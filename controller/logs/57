@@ -1,0 +1,69 @@
+2015-02-27 14:22:24.822844 (129)  START_LOG
+2015-02-27 14:22:24.825148 (129)   SPLAYD LUA EXEC
+2015-02-27 14:22:24.834097 (129)  	>> Job settings:
+2015-02-27 14:22:24.834174 (129)  	Ref: f1a5d72fbbd701fd4d9e9bbe9779244b
+2015-02-27 14:22:24.834185 (129)  	Name: 
+2015-02-27 14:22:24.834193 (129)  	Description: 
+2015-02-27 14:22:24.834201 (129)  	Disk:
+2015-02-27 14:22:24.834210 (129)  		max 1024 files
+2015-02-27 14:22:24.834220 (129)  		max 1024 file descriptors
+2015-02-27 14:22:24.834230 (129)  		max 67108864 size in bytes
+2015-02-27 14:22:28.446138 (166)  START_LOG
+2015-02-27 14:22:28.479925 (166)   SPLAYD LUA EXEC
+2015-02-27 14:22:28.517505 (166)  	>> Job settings:
+2015-02-27 14:22:28.517582 (166)  	Ref: f1a5d72fbbd701fd4d9e9bbe9779244b
+2015-02-27 14:22:28.517594 (166)  	Name: 
+2015-02-27 14:22:28.517602 (166)  	Description: 
+2015-02-27 14:22:28.517610 (166)  	Disk:
+2015-02-27 14:22:28.517620 (166)  		max 1024 files
+2015-02-27 14:22:28.517630 (166)  		max 1024 file descriptors
+2015-02-27 14:22:28.517640 (166)  		max 67108864 size in bytes
+2015-02-27 14:22:28.517648 (166)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_12_9/jobs_fs/f1a5d72fbbd701fd4d9e9bbe9779244b/lib
+2015-02-27 14:22:28.517657 (166)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_12_9/jobs_fs/f1a5d72fbbd701fd4d9e9bbe9779244b/lib/?.so
+2015-02-27 14:22:28.517667 (166)  	Mem 20971520 bytes of memory
+2015-02-27 14:22:28.517674 (166)  	Network:
+2015-02-27 14:22:28.517685 (166)  		max 134217728/134217728 send/receive bytes
+2015-02-27 14:22:28.517695 (166)  		max 1024 tcp sockets
+2015-02-27 14:22:28.517703 (166)  		ip 172.17.0.12
+2015-02-27 14:22:28.517714 (166)  		ports 22286-22295
+2015-02-27 14:22:28.517722 (166)  
+2015-02-27 14:22:24.834238 (129)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_10_6/jobs_fs/f1a5d72fbbd701fd4d9e9bbe9779244b/lib
+2015-02-27 14:22:24.834247 (129)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_10_6/jobs_fs/f1a5d72fbbd701fd4d9e9bbe9779244b/lib/?.so
+2015-02-27 14:22:24.834280 (129)  	Mem 20971520 bytes of memory
+2015-02-27 14:22:24.834289 (129)  	Network:
+2015-02-27 14:22:24.834300 (129)  		max 134217728/134217728 send/receive bytes
+2015-02-27 14:22:24.834310 (129)  		max 1024 tcp sockets
+2015-02-27 14:22:24.834318 (129)  		ip 172.17.0.10
+2015-02-27 14:22:24.834329 (129)  		ports 19302-19311
+2015-02-27 14:22:24.834337 (129)  
+2015-02-27 14:22:24.976038 (129)  	>> Into sandbox !!!
+2015-02-27 14:22:24.990824 (129)  	> Memory: 189.3525390625 KBytes
+2015-02-27 14:22:24.990841 (129)  	> Checking sandbox...
+2015-02-27 14:22:24.990852 (129)  	   > passed
+2015-02-27 14:22:24.990860 (129)  
+2015-02-27 14:22:28.720664 (166)  	>> Into sandbox !!!
+2015-02-27 14:22:28.720736 (166)  	> Memory: 188.9462890625 KBytes
+2015-02-27 14:22:28.720745 (166)  	> Checking sandbox...
+2015-02-27 14:22:28.720754 (166)  	   > passed
+2015-02-27 14:22:28.720762 (166)  
+2015-02-27 14:22:27.66835 (129)  	(2) waiting for 11.90890926491 to desynchronize
+2015-02-27 14:22:30.791623 (166)  	(3) waiting for 15.621306251558 to desynchronize
+2015-02-27 14:23:02.570642 (166)  	(3) (no)  was called and received no
+2015-02-27 14:22:59.46962 (129)  	(2) (no) called node 3 and received no
+2015-02-27 14:23:06.433964 (166)  	(3) (no)  was called and received no
+2015-02-27 14:23:06.434563 (166)  	(3) (no) called node 3 and received no
+2015-02-27 14:23:19.110984 (129)  	(2) (no) called node 3 and received no
+2015-02-27 14:23:22.642290 (166)  	(3) (no)  was called and received no
+2015-02-27 14:23:26.448011 (166)  	[splay.rpc] W: do_call 'ae_update' connect(172.17.0.3:16377): connection refused
+2015-02-27 14:23:39.82829 (129)  	[splay.rpc] W: do_call 'ae_update' connect(172.17.0.3:16377): connection refused
+2015-02-27 14:23:46.468193 (166)  	[splay.rpc] W: do_call 'ae_update' connect(172.17.0.3:16377): connection refused
+2015-02-27 14:23:59.170812 (129)  	[splay.rpc] W: do_call 'ae_update' connect(172.17.0.3:16377): connection refused
+2015-02-27 14:24:02.931275 (129)  	(2) (no)  was called and received no
+2015-02-27 14:24:06.497664 (166)  	(3) (no) called node 2 and received no
+2015-02-27 14:24:19.158799 (129)  	[splay.rpc] W: do_call 'ae_update' connect(172.17.0.3:16377): connection refused
+2015-02-27 14:24:26.506883 (166)  	(3) (no)  was called and received no
+2015-02-27 14:24:26.514875 (166)  	(3) (no) called node 3 and received no
+2015-02-27 14:24:39.42948 (129)  	(2) Stopping. infected:no
+2015-02-27 14:24:42.347825 (129)  END_LOG
+2015-02-27 14:24:46.449121 (166)  	(3) Stopping. infected:no
+2015-02-27 14:24:53.376296 (166)  END_LOG

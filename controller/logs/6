@@ -1,0 +1,120 @@
+2015-02-24 17:00:27.825490 (129)  START_LOG
+2015-02-24 17:00:27.827801 (129)   SPLAYD LUA EXEC
+2015-02-24 17:00:27.832630 (129)  	>> Job settings:
+2015-02-24 17:00:27.832703 (129)  	Ref: 6b83470150a4ac3501523a603e8819d7
+2015-02-24 17:00:27.832714 (129)  	Name: 
+2015-02-24 17:00:27.832723 (129)  	Description: 
+2015-02-24 17:00:27.832731 (129)  	Disk:
+2015-02-24 17:00:27.832740 (129)  		max 1024 files
+2015-02-24 17:00:27.832750 (129)  		max 1024 file descriptors
+2015-02-24 17:00:27.832780 (129)  		max 67108864 size in bytes
+2015-02-24 17:00:27.832790 (129)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_10_6/jobs_fs/6b83470150a4ac3501523a603e8819d7/lib
+2015-02-24 17:00:27.832868 (129)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_10_6/jobs_fs/6b83470150a4ac3501523a603e8819d7/lib/?.so
+2015-02-24 17:00:27.832882 (129)  	Mem 20971520 bytes of memory
+2015-02-24 17:00:27.832891 (129)  	Network:
+2015-02-24 17:00:27.832903 (129)  		max 134217728/134217728 send/receive bytes
+2015-02-24 17:00:27.832913 (129)  		max 1024 tcp sockets
+2015-02-24 17:00:27.832952 (129)  		ip 172.17.0.10
+2015-02-24 17:00:27.832966 (129)  		ports 19214-19223
+2015-02-24 17:00:27.832974 (129)  
+2015-02-24 17:00:27.854065 (129)  	>> Into sandbox !!!
+2015-02-24 17:00:27.854133 (129)  	> Memory: 188.380859375 KBytes
+2015-02-24 17:00:27.854143 (129)  	> Checking sandbox...
+2015-02-24 17:00:27.854152 (129)  	   > passed
+2015-02-24 17:00:27.854159 (129)  
+2015-02-24 17:00:27.865719 (129)  	[school] I'm 172.17.0.10:19214
+2015-02-24 17:00:27.865761 (129)  	[school] My position in the list is: 3
+2015-02-24 17:00:27.865776 (129)  	[school] List type is 'head' with 5 nodes
+2015-02-24 17:00:30.32169 (166)  START_LOG
+2015-02-24 17:00:30.34426 (166)   SPLAYD LUA EXEC
+2015-02-24 17:00:30.39285 (166)  	>> Job settings:
+2015-02-24 17:00:30.39360 (166)  	Ref: 6b83470150a4ac3501523a603e8819d7
+2015-02-24 17:00:30.39370 (166)  	Name: 
+2015-02-24 17:00:30.39379 (166)  	Description: 
+2015-02-24 17:00:30.39387 (166)  	Disk:
+2015-02-24 17:00:30.39396 (166)  		max 1024 files
+2015-02-24 17:00:30.39406 (166)  		max 1024 file descriptors
+2015-02-24 17:00:30.39416 (166)  		max 67108864 size in bytes
+2015-02-24 17:00:30.39424 (166)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_12_9/jobs_fs/6b83470150a4ac3501523a603e8819d7/lib
+2015-02-24 17:00:30.39433 (166)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_12_9/jobs_fs/6b83470150a4ac3501523a603e8819d7/lib/?.so
+2015-02-24 17:00:30.39443 (166)  	Mem 20971520 bytes of memory
+2015-02-24 17:00:30.39518 (166)  	Network:
+2015-02-24 17:00:30.39533 (166)  		max 134217728/134217728 send/receive bytes
+2015-02-24 17:00:30.39543 (166)  		max 1024 tcp sockets
+2015-02-24 17:00:30.39551 (166)  		ip 172.17.0.12
+2015-02-24 17:00:30.39563 (166)  		ports 22471-22480
+2015-02-24 17:00:30.39584 (166)  
+2015-02-24 17:00:30.60592 (166)  	>> Into sandbox !!!
+2015-02-24 17:00:30.60660 (166)  	> Memory: 188.7861328125 KBytes
+2015-02-24 17:00:30.60669 (166)  	> Checking sandbox...
+2015-02-24 17:00:30.60678 (166)  	   > passed
+2015-02-24 17:00:30.60686 (166)  
+2015-02-24 17:00:30.72034 (166)  	[school] I'm 172.17.0.12:22471
+2015-02-24 17:00:30.72075 (166)  	[school] My position in the list is: 4
+2015-02-24 17:00:30.72090 (166)  	[school] List type is 'head' with 5 nodes
+2015-02-24 17:00:28.128976 (55)  START_LOG
+2015-02-24 17:00:28.131349 (55)   SPLAYD LUA EXEC
+2015-02-24 17:00:28.136143 (55)  	>> Job settings:
+2015-02-24 17:00:28.136227 (55)  	Ref: 6b83470150a4ac3501523a603e8819d7
+2015-02-24 17:00:28.136237 (55)  	Name: 
+2015-02-24 17:00:28.136245 (55)  	Description: 
+2015-02-24 17:00:28.136251 (55)  	Disk:
+2015-02-24 17:00:28.136260 (55)  		max 1024 files
+2015-02-24 17:00:28.136268 (55)  		max 1024 file descriptors
+2015-02-24 17:00:28.136277 (55)  		max 67108864 size in bytes
+2015-02-24 17:00:28.136284 (55)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_16_1/jobs_fs/6b83470150a4ac3501523a603e8819d7/lib
+2015-02-24 17:00:28.136291 (55)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_16_1/jobs_fs/6b83470150a4ac3501523a603e8819d7/lib/?.so
+2015-02-24 17:00:28.136300 (55)  	Mem 20971520 bytes of memory
+2015-02-24 17:00:28.136306 (55)  	Network:
+2015-02-24 17:00:28.136390 (55)  		max 134217728/134217728 send/receive bytes
+2015-02-24 17:00:28.136416 (55)  		max 1024 tcp sockets
+2015-02-24 17:00:28.136453 (55)  		ip 172.17.0.16
+2015-02-24 17:00:28.136480 (55)  		ports 14984-14993
+2015-02-24 17:00:28.136488 (55)  
+2015-02-24 17:00:28.163383 (55)  	>> Into sandbox !!!
+2015-02-24 17:00:28.172448 (55)  	> Memory: 188.787109375 KBytes
+2015-02-24 17:00:28.178288 (55)  	> Checking sandbox...
+2015-02-24 17:00:28.178314 (55)  	   > passed
+2015-02-24 17:00:28.178322 (55)  
+2015-02-24 17:00:28.189531 (55)  	[school] I'm 172.17.0.16:14984
+2015-02-24 17:00:28.189567 (55)  	[school] My position in the list is: 1
+2015-02-24 17:00:28.189582 (55)  	[school] List type is 'head' with 5 nodes
+2015-02-24 17:00:27.894571 (74)  START_LOG
+2015-02-24 17:00:27.901320 (74)   SPLAYD LUA EXEC
+2015-02-24 17:00:27.906900 (74)  	>> Job settings:
+2015-02-24 17:00:27.910521 (74)  	Ref: 6b83470150a4ac3501523a603e8819d7
+2015-02-24 17:00:27.910548 (74)  	Name: 
+2015-02-24 17:00:27.910567 (74)  	Description: 
+2015-02-24 17:00:27.910592 (74)  	Disk:
+2015-02-24 17:00:27.910604 (74)  		max 1024 files
+2015-02-24 17:00:27.910615 (74)  		max 1024 file descriptors
+2015-02-24 17:00:27.910626 (74)  		max 67108864 size in bytes
+2015-02-24 17:00:27.910635 (74)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_7_8/jobs_fs/6b83470150a4ac3501523a603e8819d7/lib
+2015-02-24 17:00:27.910645 (74)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_7_8/jobs_fs/6b83470150a4ac3501523a603e8819d7/lib/?.so
+2015-02-24 17:00:27.910657 (74)  	Mem 20971520 bytes of memory
+2015-02-24 17:00:27.910664 (74)  	Network:
+2015-02-24 17:00:27.910677 (74)  		max 134217728/134217728 send/receive bytes
+2015-02-24 17:00:27.910687 (74)  		max 1024 tcp sockets
+2015-02-24 17:00:27.910696 (74)  		ip 172.17.0.7
+2015-02-24 17:00:27.910710 (74)  		ports 21241-21250
+2015-02-24 17:00:27.910718 (74)  
+2015-02-24 17:00:27.933985 (74)  	>> Into sandbox !!!
+2015-02-24 17:00:27.934073 (74)  	> Memory: 188.373046875 KBytes
+2015-02-24 17:00:27.934083 (74)  	> Checking sandbox...
+2015-02-24 17:00:27.934092 (74)  	   > passed
+2015-02-24 17:00:27.934100 (74)  
+2015-02-24 17:00:27.946127 (74)  	[school] I'm 172.17.0.7:21241
+2015-02-24 17:00:27.954431 (74)  	[school] My position in the list is: 5
+2015-02-24 17:00:27.970488 (74)  	[school] List type is 'head' with 5 nodes
+2015-02-24 17:00:35.103435 (166)  	[school] I received an RPC from node 3
+2015-02-24 17:00:32.878414 (129)  	[school] Bye bye
+2015-02-24 17:00:32.396948 (74)  	[school] I received an RPC from node 4
+2015-02-24 17:00:35.106229 (166)  	[school] Bye bye
+2015-02-24 17:00:33.196607 (55)  	[splay.rpc] W: do_call 'call_me' connect(172.17.0.3:16506): connection refused
+2015-02-24 17:00:33.196676 (55)  	[school] Bye bye
+2015-02-24 17:00:33.480251 (55)  	[school] I received an RPC from node 5
+2015-02-24 17:00:32.989012 (74)  	[school] Bye bye
+2015-02-24 17:00:36.11163 (129)  END_LOG
+2015-02-24 17:00:40.442518 (166)  END_LOG
+2015-02-24 17:00:36.622312 (55)  END_LOG
+2015-02-24 17:00:35.638664 (74)  END_LOG

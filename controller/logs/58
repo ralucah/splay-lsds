@@ -1,0 +1,110 @@
+2015-02-27 14:28:41.925591 (129)  START_LOG
+2015-02-27 14:28:41.948858 (129)   SPLAYD LUA EXEC
+2015-02-27 14:28:41.953757 (129)  	>> Job settings:
+2015-02-27 14:28:41.953803 (129)  	Ref: da523497705d42b707789c43f300468a
+2015-02-27 14:28:41.953832 (129)  	Name: 
+2015-02-27 14:28:41.953841 (129)  	Description: 
+2015-02-27 14:28:41.953849 (129)  	Disk:
+2015-02-27 14:28:41.953859 (129)  		max 1024 files
+2015-02-27 14:28:41.953868 (129)  		max 1024 file descriptors
+2015-02-27 14:28:41.953878 (129)  		max 67108864 size in bytes
+2015-02-27 14:28:41.953886 (129)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_10_6/jobs_fs/da523497705d42b707789c43f300468a/lib
+2015-02-27 14:28:41.953895 (129)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_10_6/jobs_fs/da523497705d42b707789c43f300468a/lib/?.so
+2015-02-27 14:28:41.953905 (129)  	Mem 20971520 bytes of memory
+2015-02-27 14:28:41.953913 (129)  	Network:
+2015-02-27 14:28:41.953924 (129)  		max 134217728/134217728 send/receive bytes
+2015-02-27 14:28:41.953934 (129)  		max 1024 tcp sockets
+2015-02-27 14:28:41.953942 (129)  		ip 172.17.0.10
+2015-02-27 14:28:41.953953 (129)  		ports 19619-19628
+2015-02-27 14:28:41.953962 (129)  
+2015-02-27 14:28:45.626124 (166)  START_LOG
+2015-02-27 14:28:42.109064 (129)  	>> Into sandbox !!!
+2015-02-27 14:28:42.109116 (129)  	> Memory: 188.947265625 KBytes
+2015-02-27 14:28:42.109125 (129)  	> Checking sandbox...
+2015-02-27 14:28:42.109134 (129)  	   > passed
+2015-02-27 14:28:42.109141 (129)  
+2015-02-27 14:28:45.647881 (166)   SPLAYD LUA EXEC
+2015-02-27 14:28:45.729417 (166)  	>> Job settings:
+2015-02-27 14:28:45.729747 (166)  	Ref: da523497705d42b707789c43f300468a
+2015-02-27 14:28:45.729802 (166)  	Name: 
+2015-02-27 14:28:45.729961 (166)  	Description: 
+2015-02-27 14:28:45.730031 (166)  	Disk:
+2015-02-27 14:28:45.730155 (166)  		max 1024 files
+2015-02-27 14:28:45.730344 (166)  		max 1024 file descriptors
+2015-02-27 14:28:45.730395 (166)  		max 67108864 size in bytes
+2015-02-27 14:28:45.730440 (166)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_12_9/jobs_fs/da523497705d42b707789c43f300468a/lib
+2015-02-27 14:28:45.730553 (166)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_12_9/jobs_fs/da523497705d42b707789c43f300468a/lib/?.so
+2015-02-27 14:28:45.730606 (166)  	Mem 20971520 bytes of memory
+2015-02-27 14:28:45.730713 (166)  	Network:
+2015-02-27 14:28:45.730763 (166)  		max 134217728/134217728 send/receive bytes
+2015-02-27 14:28:45.730829 (166)  		max 1024 tcp sockets
+2015-02-27 14:28:45.730940 (166)  		ip 172.17.0.12
+2015-02-27 14:28:45.731023 (166)  		ports 22983-22992
+2015-02-27 14:28:45.731136 (166)  
+2015-02-27 14:28:45.880156 (166)  	>> Into sandbox !!!
+2015-02-27 14:28:45.880264 (166)  	> Memory: 189.353515625 KBytes
+2015-02-27 14:28:45.880274 (166)  	> Checking sandbox...
+2015-02-27 14:28:45.880283 (166)  	   > passed
+2015-02-27 14:28:45.880291 (166)  
+2015-02-27 14:28:42.887648 (55)  START_LOG
+2015-02-27 14:28:42.919084 (55)   SPLAYD LUA EXEC
+2015-02-27 14:28:42.952564 (55)  	>> Job settings:
+2015-02-27 14:28:42.952630 (55)  	Ref: da523497705d42b707789c43f300468a
+2015-02-27 14:28:42.952660 (55)  	Name: 
+2015-02-27 14:28:42.952668 (55)  	Description: 
+2015-02-27 14:28:42.952675 (55)  	Disk:
+2015-02-27 14:28:42.952683 (55)  		max 1024 files
+2015-02-27 14:28:42.952692 (55)  		max 1024 file descriptors
+2015-02-27 14:28:42.952701 (55)  		max 67108864 size in bytes
+2015-02-27 14:28:42.952708 (55)  		lib directoy /home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_16_1/jobs_fs/da523497705d42b707789c43f300468a/lib
+2015-02-27 14:28:42.952715 (55)  		cpath : /usr/local/lib/lua/5.2/?.so;/usr/lib/x86_64-linux-gnu/lua/5.2/?.so;/usr/lib/lua/5.2/?.so;/usr/local/lib/lua/5.2/loadall.so;./?.so;/home/ubuntu/workspace/local_splay_cluster/hosts/splayd_172_17_0_16_1/jobs_fs/da523497705d42b707789c43f300468a/lib/?.so
+2015-02-27 14:28:42.952724 (55)  	Mem 20971520 bytes of memory
+2015-02-27 14:28:42.952730 (55)  	Network:
+2015-02-27 14:28:42.952746 (55)  		max 134217728/134217728 send/receive bytes
+2015-02-27 14:28:42.952757 (55)  		max 1024 tcp sockets
+2015-02-27 14:28:42.952765 (55)  		ip 172.17.0.16
+2015-02-27 14:28:42.952775 (55)  		ports 14855-14864
+2015-02-27 14:28:42.952782 (55)  
+2015-02-27 14:28:43.147149 (55)  	>> Into sandbox !!!
+2015-02-27 14:28:43.147231 (55)  	> Memory: 188.947265625 KBytes
+2015-02-27 14:28:43.147242 (55)  	> Checking sandbox...
+2015-02-27 14:28:43.147249 (55)  	   > passed
+2015-02-27 14:28:43.147256 (55)  
+2015-02-27 14:28:44.182827 (129)  	(1) waiting for 13.473182913602 to desynchronize
+2015-02-27 14:28:47.970108 (166)  	(3) waiting for 9.3888664941252 to desynchronize
+2015-02-27 14:28:45.230400 (55)  	(2) waiting for 17.535797747567 to desynchronize
+2015-02-27 14:29:13.839328 (129)  	(1) (no)  was called and received no
+2015-02-27 14:29:17.402294 (166)  	(3) (no) called node 1 and received no
+2015-02-27 14:29:17.683712 (129)  	(1) (no)  was called and received no
+2015-02-27 14:29:17.683941 (129)  	(1) (no) called node 1 and received no
+2015-02-27 14:29:22.867421 (129)  	(1) (no)  was called and received no
+2015-02-27 14:29:22.889381 (55)  	(2) (no) called node 1 and received no
+2015-02-27 14:29:33.870043 (129)  	(1) (no)  was called and received no
+2015-02-27 14:29:37.434336 (166)  	(3) (no) called node 1 and received no
+2015-02-27 14:29:37.709533 (55)  	(2) (no)  was called and received no
+2015-02-27 14:29:37.707037 (129)  	(1) (no) called node 2 and received no
+2015-02-27 14:29:42.881006 (55)  	(2) (no)  was called and received no
+2015-02-27 14:29:42.881218 (55)  	(2) (no) called node 2 and received no
+2015-02-27 14:29:53.891922 (55)  	(2) (no)  was called and received no
+2015-02-27 14:29:57.442368 (166)  	(3) (no) called node 2 and received no
+2015-02-27 14:29:57.707958 (129)  	(1) (no)  was called and received no
+2015-02-27 14:29:57.708159 (129)  	(1) (no) called node 1 and received no
+2015-02-27 14:30:06.446587 (166)  	(3) (no)  was called and received no
+2015-02-27 14:30:02.901308 (55)  	(2) (no) called node 3 and received no
+2015-02-27 14:30:17.446968 (166)  	(3) (no)  was called and received no
+2015-02-27 14:30:17.447537 (166)  	(3) (no) called node 3 and received no
+2015-02-27 14:30:17.765555 (55)  	(2) (no)  was called and received no
+2015-02-27 14:30:17.798952 (129)  	(1) (no) called node 2 and received no
+2015-02-27 14:30:22.938936 (129)  	(1) (no)  was called and received no
+2015-02-27 14:30:22.954568 (55)  	(2) (no) called node 1 and received no
+2015-02-27 14:30:33.966986 (129)  	(1) (no)  was called and received no
+2015-02-27 14:30:37.529750 (166)  	(3) (no) called node 1 and received no
+2015-02-27 14:30:37.786264 (55)  	(2) (no)  was called and received no
+2015-02-27 14:30:37.777744 (129)  	(1) (no) called node 2 and received no
+2015-02-27 14:30:42.903826 (55)  	(2) (no)  was called and received no
+2015-02-27 14:30:42.903984 (55)  	(2) (no) called node 2 and received no
+2015-02-27 14:30:57.388975 (166)  	(3) Stopping. infected:no
+2015-02-27 14:31:04.351329 (166)  END_LOG
+2015-02-27 14:30:46.298666 (55)  END_LOG
+2015-02-27 14:30:57.690750 (129)  	(1) Stopping. infected:no
+2015-02-27 14:31:01.13595 (129)  END_LOG
